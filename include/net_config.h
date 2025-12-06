@@ -2,10 +2,10 @@
 
 // ===== WiFi Credentials =====
 #ifndef WIFI_SSID
-#define WIFI_SSID "CVLAB002"
+#define WIFI_SSID "ace3pro"
 #endif
 #ifndef WIFI_PASS
-#define WIFI_PASS "cvlab002"
+#define WIFI_PASS "12345678"
 #endif
 
 // ===== MQTT Settings =====

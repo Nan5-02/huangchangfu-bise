@@ -8,6 +8,10 @@ void ABEE_ON();
 void ABEE_OFF();
 void ALIGHT_ON();
 void ALIGHT_OFF();
+void light_control(void);
+void bee_control(void);
+uint8_t get_light_state(void);
+uint8_t get_bee_state(void);
 
 #define BEE_PIN 27
 #define BEE_ON LOW
